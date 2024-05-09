@@ -1,0 +1,21 @@
+1. css constractor -convert html o css(https://extractcss.com/)
+
+2. w3schools.com/css/css_fonts.asp
+
+/
+font-weight 
+
+UI -User Interface
+UX - what feel like user based on your website after visitiing his experience.
+
+Note: color combination is one of the part of UI UX
+
+Note: Mostly 2/3 color uses in a website  to view it nicely.
+
+sky color:  
+n blue color: 
+
+box-shadow
+gradiant
+noise tex
+border radious
